@@ -15,7 +15,7 @@ const Box = styled(motion.div)`
 	
 	padding:16px;
 	margin-top:2px;
-	margin-right:16px;
+	margin-right:16px;dsfs
 	
 	cursor: pointer;
 `;
@@ -26,7 +26,7 @@ const ImgDiv = styled.div`
 
 const Img = styled.img`
 	width: 40px;
-	height: 40px;
+	height: 40px;dsfsdf
 	margin-right: 10px;
 `;
 
